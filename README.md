@@ -1,4 +1,4 @@
-Todo List project with CRUD,image upload,profile edit,login and registration
+Todo List project with CRUD, image upload, profile edit, login and registration.
 
 
 
